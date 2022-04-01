@@ -1,4 +1,7 @@
 ### Hi there 👋
+I'm an iOS developer at Jaguar Land Rover! I started my iOS journey in Jan 2021 and have loved it since - as is true for most iOS devs out there 😉
+I also write articles on Medium to simplify Swift - [**Swift Simplified**](https://swiftsimplified.medium.com)
+You can find me on [**Twitter**](https://twitter.com/harshv_arora) and [**LinkedIn**](https://www.linkedin.com/in/harshvardhanarora/)!
 
 <!--
 **harshvardhanarora/harshvardhanarora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
